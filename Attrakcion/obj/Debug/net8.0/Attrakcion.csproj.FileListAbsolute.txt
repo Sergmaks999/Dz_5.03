@@ -1,0 +1,14 @@
+C:\Users\Top\source\repos\Attrakcion\bin\Debug\net8.0\Attrakcion.exe
+C:\Users\Top\source\repos\Attrakcion\bin\Debug\net8.0\Attrakcion.deps.json
+C:\Users\Top\source\repos\Attrakcion\bin\Debug\net8.0\Attrakcion.runtimeconfig.json
+C:\Users\Top\source\repos\Attrakcion\bin\Debug\net8.0\Attrakcion.dll
+C:\Users\Top\source\repos\Attrakcion\bin\Debug\net8.0\Attrakcion.pdb
+C:\Users\Top\source\repos\Attrakcion\obj\Debug\net8.0\Attrakcion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Top\source\repos\Attrakcion\obj\Debug\net8.0\Attrakcion.AssemblyInfoInputs.cache
+C:\Users\Top\source\repos\Attrakcion\obj\Debug\net8.0\Attrakcion.AssemblyInfo.cs
+C:\Users\Top\source\repos\Attrakcion\obj\Debug\net8.0\Attrakcion.csproj.CoreCompileInputs.cache
+C:\Users\Top\source\repos\Attrakcion\obj\Debug\net8.0\Attrakcion.dll
+C:\Users\Top\source\repos\Attrakcion\obj\Debug\net8.0\refint\Attrakcion.dll
+C:\Users\Top\source\repos\Attrakcion\obj\Debug\net8.0\Attrakcion.pdb
+C:\Users\Top\source\repos\Attrakcion\obj\Debug\net8.0\Attrakcion.genruntimeconfig.cache
+C:\Users\Top\source\repos\Attrakcion\obj\Debug\net8.0\ref\Attrakcion.dll
