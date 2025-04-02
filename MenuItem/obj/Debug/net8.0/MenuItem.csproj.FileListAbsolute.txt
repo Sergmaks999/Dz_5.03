@@ -1,0 +1,14 @@
+C:\Users\Top\source\repos\MenuItem\bin\Debug\net8.0\MenuItem.exe
+C:\Users\Top\source\repos\MenuItem\bin\Debug\net8.0\MenuItem.deps.json
+C:\Users\Top\source\repos\MenuItem\bin\Debug\net8.0\MenuItem.runtimeconfig.json
+C:\Users\Top\source\repos\MenuItem\bin\Debug\net8.0\MenuItem.dll
+C:\Users\Top\source\repos\MenuItem\bin\Debug\net8.0\MenuItem.pdb
+C:\Users\Top\source\repos\MenuItem\obj\Debug\net8.0\MenuItem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Top\source\repos\MenuItem\obj\Debug\net8.0\MenuItem.AssemblyInfoInputs.cache
+C:\Users\Top\source\repos\MenuItem\obj\Debug\net8.0\MenuItem.AssemblyInfo.cs
+C:\Users\Top\source\repos\MenuItem\obj\Debug\net8.0\MenuItem.csproj.CoreCompileInputs.cache
+C:\Users\Top\source\repos\MenuItem\obj\Debug\net8.0\MenuItem.dll
+C:\Users\Top\source\repos\MenuItem\obj\Debug\net8.0\refint\MenuItem.dll
+C:\Users\Top\source\repos\MenuItem\obj\Debug\net8.0\MenuItem.pdb
+C:\Users\Top\source\repos\MenuItem\obj\Debug\net8.0\MenuItem.genruntimeconfig.cache
+C:\Users\Top\source\repos\MenuItem\obj\Debug\net8.0\ref\MenuItem.dll
