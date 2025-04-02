@@ -1,0 +1,14 @@
+C:\Users\Top\source\repos\FeaturesCat\bin\Debug\net8.0\FeaturesCat.exe
+C:\Users\Top\source\repos\FeaturesCat\bin\Debug\net8.0\FeaturesCat.deps.json
+C:\Users\Top\source\repos\FeaturesCat\bin\Debug\net8.0\FeaturesCat.runtimeconfig.json
+C:\Users\Top\source\repos\FeaturesCat\bin\Debug\net8.0\FeaturesCat.dll
+C:\Users\Top\source\repos\FeaturesCat\bin\Debug\net8.0\FeaturesCat.pdb
+C:\Users\Top\source\repos\FeaturesCat\obj\Debug\net8.0\FeaturesCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Top\source\repos\FeaturesCat\obj\Debug\net8.0\FeaturesCat.AssemblyInfoInputs.cache
+C:\Users\Top\source\repos\FeaturesCat\obj\Debug\net8.0\FeaturesCat.AssemblyInfo.cs
+C:\Users\Top\source\repos\FeaturesCat\obj\Debug\net8.0\FeaturesCat.csproj.CoreCompileInputs.cache
+C:\Users\Top\source\repos\FeaturesCat\obj\Debug\net8.0\FeaturesCat.dll
+C:\Users\Top\source\repos\FeaturesCat\obj\Debug\net8.0\refint\FeaturesCat.dll
+C:\Users\Top\source\repos\FeaturesCat\obj\Debug\net8.0\FeaturesCat.pdb
+C:\Users\Top\source\repos\FeaturesCat\obj\Debug\net8.0\FeaturesCat.genruntimeconfig.cache
+C:\Users\Top\source\repos\FeaturesCat\obj\Debug\net8.0\ref\FeaturesCat.dll
