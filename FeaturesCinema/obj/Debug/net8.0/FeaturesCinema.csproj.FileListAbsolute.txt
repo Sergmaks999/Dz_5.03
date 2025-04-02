@@ -1,0 +1,14 @@
+C:\Users\Top\source\repos\FeaturesCinema\bin\Debug\net8.0\FeaturesCinema.exe
+C:\Users\Top\source\repos\FeaturesCinema\bin\Debug\net8.0\FeaturesCinema.deps.json
+C:\Users\Top\source\repos\FeaturesCinema\bin\Debug\net8.0\FeaturesCinema.runtimeconfig.json
+C:\Users\Top\source\repos\FeaturesCinema\bin\Debug\net8.0\FeaturesCinema.dll
+C:\Users\Top\source\repos\FeaturesCinema\bin\Debug\net8.0\FeaturesCinema.pdb
+C:\Users\Top\source\repos\FeaturesCinema\obj\Debug\net8.0\FeaturesCinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Top\source\repos\FeaturesCinema\obj\Debug\net8.0\FeaturesCinema.AssemblyInfoInputs.cache
+C:\Users\Top\source\repos\FeaturesCinema\obj\Debug\net8.0\FeaturesCinema.AssemblyInfo.cs
+C:\Users\Top\source\repos\FeaturesCinema\obj\Debug\net8.0\FeaturesCinema.csproj.CoreCompileInputs.cache
+C:\Users\Top\source\repos\FeaturesCinema\obj\Debug\net8.0\FeaturesCinema.dll
+C:\Users\Top\source\repos\FeaturesCinema\obj\Debug\net8.0\refint\FeaturesCinema.dll
+C:\Users\Top\source\repos\FeaturesCinema\obj\Debug\net8.0\FeaturesCinema.pdb
+C:\Users\Top\source\repos\FeaturesCinema\obj\Debug\net8.0\FeaturesCinema.genruntimeconfig.cache
+C:\Users\Top\source\repos\FeaturesCinema\obj\Debug\net8.0\ref\FeaturesCinema.dll
